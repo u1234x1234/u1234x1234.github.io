@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Some Title</title>
+    <title>Dmitrii Tsybulevskii</title>
     <link>https://u1234x1234.github.io/</link>
-    <description>Recent content on Some Title</description>
+    <description>Recent content on Dmitrii Tsybulevskii</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://u1234x1234.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://u1234x1234.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://u1234x1234.github.io/about/</link>
@@ -26,12 +22,12 @@ u1234x1234@gmail.com
   Challenge
   Tags
   Results
+   2021.02
+  AIcrowd Hockey Puck Tracking Challenge
+  Object Detection, Object Localization
+  2nd place
    2020.11
-  MERC2020 Multimodal Emotion Recognition Competition
-  Video, Audio, Text, Multi modality
-  1st place
-   2020.09
-  AICrowd Hockey Team Classification</description>
+  MERC2020 Multimodal Emotion Recognition Competition</description>
     </item>
     
   </channel>
